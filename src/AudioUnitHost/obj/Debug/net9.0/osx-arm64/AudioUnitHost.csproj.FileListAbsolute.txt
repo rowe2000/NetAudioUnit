@@ -1,0 +1,15 @@
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/AudioUnitHost.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/AudioUnitHost.AssemblyInfoInputs.cache
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/AudioUnitHost.AssemblyInfo.cs
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/AudioUnitHost.csproj.CoreCompileInputs.cache
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/AudioUnitHost.sourcelink.json
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/bin/Debug/net9.0/osx-arm64/audio-unit-host
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/bin/Debug/net9.0/osx-arm64/audio-unit-host.deps.json
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/bin/Debug/net9.0/osx-arm64/audio-unit-host.runtimeconfig.json
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/bin/Debug/net9.0/osx-arm64/audio-unit-host.dll
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/bin/Debug/net9.0/osx-arm64/audio-unit-host.pdb
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/audio-unit-host.dll
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/refint/audio-unit-host.dll
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/audio-unit-host.pdb
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/AudioUnitHost.genruntimeconfig.cache
+/Users/robertwestman/Projects/_robkeys/copilot-worktrees/NetAudioUnit/rowe2000-probable-engine/src/AudioUnitHost/obj/Debug/net9.0/osx-arm64/ref/audio-unit-host.dll
